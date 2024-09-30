@@ -1530,8 +1530,9 @@ blockquote cite:before {
 }
 
 .about1-img {
-    height: 364px;
-    width: 400px;
+    height: 350px;
+    width: 450px;
+    background-size: cover;
 }
 
 .about-img .about-img-2 {
